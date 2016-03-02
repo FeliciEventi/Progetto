@@ -28,3 +28,4 @@ CREATE TABLE IF NOT EXISTS Luogo(
   Latitudine DOUBLE NOT NULL,
   Longitudine DOUBLE NOT NULL
 )Engine=InnoDB;
+
